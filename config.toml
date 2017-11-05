@@ -5,7 +5,7 @@ theme = "future-imperfect"
 preserveTaxonomyNames = true
 paginate = 8
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "19970008"
 pluralizeListTitles = false
 
 [params]
