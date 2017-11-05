@@ -1,5 +1,0 @@
-# BEGIN WishList Member Attachment Protection
-RewriteEngine on
-RewriteCond %{REQUEST_URI} !\.(jpg|jpeg|png|gif|bmp)$
-RewriteRule ^(.*)$ /index.php?wlmfile=$1 [L]
-# END WishList Member Attachment Protection
