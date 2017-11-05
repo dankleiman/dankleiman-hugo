@@ -4,7 +4,8 @@ date: 2016-12-29 09:29:22 -0500
 categories: 
 - Code
 - Golang
-slug: "/blog/2016/12/29/my-5-strategies-for-learning-go-in-2017/"
+aliases: 
+-  "/blog/2016/12/29/my-5-strategies-for-learning-go-in-2017/"
 ---
 Over the past couple of years, one thing I've become more and more aware of is the unease and uncertainty of diving into a new project. Not matter what the new X is, I find I always go through the same set of uncomfortable feelings on my initial approach. 
 

@@ -4,7 +4,8 @@ date: 2014-05-17 09:32:59 -0400
 categories: 
 - Code
 - Launch Academy
-slug: "/blog/2014/05/17/launch-academy-week-1-reflections/"
+aliases: 
+-  "/blog/2014/05/17/launch-academy-week-1-reflections/"
 ---
 
 So, all this week, I've been experiencing the Tetris effect and I've come to appreciate the beauty, and the painlessness, of learning how to break down a problem.

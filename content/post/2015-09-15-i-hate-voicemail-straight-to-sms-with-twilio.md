@@ -4,7 +4,8 @@ date: 2015-09-15 08:02:19 -0400
 categories: 
 - Code
 - Twilio
-slug: "/blog/2015/09/15/i-hate-voicemail-straight-to-sms-with-twilio/"
+aliases: 
+-  "/blog/2015/09/15/i-hate-voicemail-straight-to-sms-with-twilio/"
 ---
 
 I hate checking my voicemail. I hate the nagging voicemail icon on my phone that won't be dismissed unless I actually check my voicemail. I hate how listening to a voicemail, capturing relevant information from it, and calling someone back breaks up the normal flow of how I communicate with people all day long: asynchronously, via written communication like email or text.

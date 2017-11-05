@@ -4,7 +4,8 @@ date: 2014-03-18 21:28:17 -0400
 categories:
 - Code
 - Octopress
-slug: "/blog/2014/03/18/whoa-octopress/"
+aliases: 
+-  "/blog/2014/03/18/whoa-octopress/"
 ---
 So, I just launched this new blog using Octopress.
 

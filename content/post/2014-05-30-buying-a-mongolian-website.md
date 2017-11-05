@@ -4,7 +4,8 @@ date: 2014-05-30 09:17:22 -0400
 categories: 
 - Code
 - Launch Academy
-slug: "/blog/2014/05/30/buying-a-mongolian-website/"
+aliases: 
+-  "/blog/2014/05/30/buying-a-mongolian-website/"
 ---
 
 Ok, so technically I just purchased a Mongolian domain name: [klei.mn](http://klei.mn).

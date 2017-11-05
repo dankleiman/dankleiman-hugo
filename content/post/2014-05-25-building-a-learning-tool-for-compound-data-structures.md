@@ -4,7 +4,8 @@ date: 2014-05-25 09:07:15 -0400
 categories: 
 - Code
 - Launch Academy
-slug: "/blog/2014/05/25/building-a-learning-tool-for-compound-data-structures/"
+aliases: 
+-  "/blog/2014/05/25/building-a-learning-tool-for-compound-data-structures/"
 ---
 
 One of the most challenging things about learning to work with compound data structures has been reading the nested hashes and arrays and extracting the right set of brackets to use to identify a particular value in your code.

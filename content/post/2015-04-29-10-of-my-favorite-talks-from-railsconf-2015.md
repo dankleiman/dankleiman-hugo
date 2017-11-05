@@ -4,7 +4,8 @@ date: 2015-04-29 20:47:31 -0400
 categories: 
 - Code
 - RailsConf
-slug: "/blog/2015/04/29/10-of-my-favorite-talks-from-railsconf-2015/"
+aliases: 
+-  "/blog/2015/04/29/10-of-my-favorite-talks-from-railsconf-2015/"
 ---
 
 RailsConf 2015 was a blast. There were talks on a such a wide range of topics, that I wanted to capture some of my favorites here.

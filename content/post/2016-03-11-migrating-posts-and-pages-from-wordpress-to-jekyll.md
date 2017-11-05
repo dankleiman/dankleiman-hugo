@@ -5,7 +5,8 @@ date: 2016-03-11 13:55:15 -0500
 categories: 
 - Code
 - Static Sites
-slug: "/blog/2016/03/11/migrating-posts-and-pages-from-wordpress-to-jekyll/"
+aliases: 
+-  "/blog/2016/03/11/migrating-posts-and-pages-from-wordpress-to-jekyll/"
 ---
 
 <em>This is Part 1 in a series on [Migrating from Wordpress to Jekyll](/blog/2016/03/09/migrating-from-wordpress-to-jekyll/).</em>

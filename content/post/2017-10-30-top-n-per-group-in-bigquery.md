@@ -4,7 +4,8 @@ date: 2017-10-30 19:29:32 -0400
 categories: 
 - Code
 - BigQuery
-slug: "/blog/2017/10/30/top-n-per-group-in-bigquery/"
+aliases: 
+- "/blog/2017/10/30/top-n-per-group-in-bigquery/"
 ---
 In this post, we are going to explore a strategy for collecting the **Top N results per Group** over a mixed dataset, all in a single query.
 

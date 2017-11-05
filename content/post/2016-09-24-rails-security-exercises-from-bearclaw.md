@@ -5,7 +5,8 @@ categories:
 - Code
 - Rails
 - Security
-slug: "/blog/2016/09/24/rails-security-exercises-from-bearclaw/"
+aliases: 
+-  "/blog/2016/09/24/rails-security-exercises-from-bearclaw/"
 ---
 In this post, I'm going to tell you what I learned doing a series of Rails security exercises developed by [Bearclaw](https://www.gobearclaw.com/), a Rails security consultancy.
 

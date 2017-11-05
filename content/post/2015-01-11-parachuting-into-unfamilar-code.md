@@ -3,7 +3,8 @@ title: "Parachuting into Unfamilar Code"
 date: 2015-01-11 20:15:27 -0500
 categories: 
 - Code
-slug: "/blog/2015/01/11/parachuting-into-unfamilar-code/"
+aliases: 
+-  "/blog/2015/01/11/parachuting-into-unfamilar-code/"
 ---
 We have hundreds of models in our codebase at [TrialNetworks](http://www.trialnetworks.com).
 

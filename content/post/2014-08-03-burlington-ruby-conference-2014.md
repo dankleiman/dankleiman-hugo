@@ -4,7 +4,8 @@ date: 2014-08-03 06:24:53 -0400
 categories: 
 - Code
 - Ruby
-slug: "/blog/2014/08/03/burlington-ruby-conference-2014/"
+aliases: 
+-  "/blog/2014/08/03/burlington-ruby-conference-2014/"
 ---
 It's 6:23 on Sunday morning, day 2 at [Burlington Ruby](http://burlingtonrubyconference.com/), so I thought I'd take a few minutes and recap some of what I saw and learned yesterday.
 

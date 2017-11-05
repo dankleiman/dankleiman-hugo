@@ -4,7 +4,8 @@ date: 2014-06-08 20:32:17 -0400
 categories: 
 - Code
 - Launch Academy
-slug: "/blog/2014/06/08/asking-questions-the-holy-grail-of-oop/"
+aliases: 
+-  "/blog/2014/06/08/asking-questions-the-holy-grail-of-oop/"
 ---
 
 This week at Launch Academy, we started working on Object Oriented Programming (OOP).
