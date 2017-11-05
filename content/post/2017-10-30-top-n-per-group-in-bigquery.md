@@ -13,6 +13,7 @@ I stumbled onto this solution the other day, mostly driven by the fear that I wa
 For each group, I would just modify the `WHERE` clause, rescan all the data, and get new results. I thought there had to be an easier way to get the same ordered subset for any particular group in the data, all at once.
 
 It turns out, there is a much more efficient way to solve this problem.
+
 <!--more-->
 
 ## Reddit Top 10 Users By Comment Score for July, 2015
@@ -31,7 +32,7 @@ ORDER BY 2 DESC
 LIMIT 10
 ```
 
-_I'm leaving out all query results in this post because it's a [public dataset](https://bigquery.cloud.google.com/table/fh-bigquery:reddit_comments.2015_07?tab=preview) and you should totally go run the queries to see for yourself!_
+I'm leaving out all query results in this post because it's a [public dataset](https://bigquery.cloud.google.com/table/fh-bigquery:reddit_comments.2015_07?tab=preview) and you should totally go run the queries to see for yourself!
 
 In the most straightforward way possible, we're summing up the comment score by author, ordering by highest score, and taking the first ten results.
 
