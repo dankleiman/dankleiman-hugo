@@ -7,6 +7,8 @@ categories:
 aliases: 
 - "/blog/2017/10/30/top-n-per-group-in-bigquery/"
 ---
+**EDIT:** After I posted this initially, I got some [great](https://twitter.com/Dan_Kleiman/status/925921880397287425) [feedback](https://www.reddit.com/r/bigquery/comments/7aecfe/top_n_per_group_in_bigquery/), so I wrote a follow-up post [here](/2017/11/07/more-efficient-solutions-to-the-top-n-per-group-problem/).
+
 In this post, we are going to explore a strategy for collecting the **Top N results per Group** over a mixed dataset, all in a single query.
 
 I stumbled onto this solution the other day, mostly driven by the fear that I was re-scanning my BigQuery data too often. At the time, the only way I knew how to look at a Top 10 list of a subset of the data was to add a `WHERE` clause limiting the whole data set to a single group and combine with `ORDER BY` and `LIMIT` clauses.
