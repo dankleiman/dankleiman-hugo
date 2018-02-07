@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://dankleiman.com/"
 languageCode = "en-us"
 title = "Dan Kleiman"
 theme = "future-imperfect"
