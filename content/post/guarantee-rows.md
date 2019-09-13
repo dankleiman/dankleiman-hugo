@@ -74,7 +74,7 @@ WITH dates AS (
   SELECT
     '2019-09-10'::date - ROW_NUMBER() OVER() as date
   FROM
-    udm_events_staging
+    some_big_enough_table
   LIMIT 14
 ), logins AS (
   SELECT date, count FROM (SELECT '2019-09-01'::date, 115) as r(date, count)
