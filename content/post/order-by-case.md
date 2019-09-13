@@ -1,7 +1,7 @@
 +++
 date = "2019-08-30T19:40:40-04:00"
 title = "SQL Quick Tip: Present Cleaner Results with Custom Ordering"
-categories = ['Code', 'SQL']
+categories = ['Code', 'SQL', 'Quick Tip']
 +++
 
 Usually, when you add an `ORDER BY` clause to your SQL query, you want to sort by your columns' values.
