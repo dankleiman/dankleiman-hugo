@@ -25,8 +25,8 @@ googleAnalytics = "UA-19970008-2"
   Content = "Writing about tai chi and code."
 
 [permalinks]
-  taichi = "/taichi/:filename"
-  code = "/code/:filename"
+  taichi = "/taichi/:contentbasename"
+  code = "/code/:contentbasename"
 
 [[menu.main]]
   name = "Tai Chi"

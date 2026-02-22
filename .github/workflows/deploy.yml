@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - redesign-2026   # switch to master after merging
+      - master
   workflow_dispatch:    # allows manual trigger from GitHub UI
 
 # Allow only one deployment at a time
