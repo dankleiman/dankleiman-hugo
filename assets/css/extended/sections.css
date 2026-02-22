@@ -1,0 +1,79 @@
+/* ============================================================
+   DUAL-SECTION THEMING
+   /taichi/ = light (warm white, ink text)
+   /code/   = dark  (near-black, off-white text)
+   ============================================================ */
+
+/* --- Tai Chi section: light theme ----------------------------- */
+body.section-taichi,
+body.list.section-taichi {
+    --theme: #f9f7f4;
+    --entry: #ffffff;
+    --primary: rgba(20, 20, 20, 0.90);
+    --secondary: rgba(60, 60, 60, 0.65);
+    --tertiary: rgba(180, 175, 165, 0.60);
+    --content: rgb(35, 33, 30);
+    --code-block-bg: rgb(40, 40, 40);
+    --code-bg: #ede9e1;
+    --border: rgba(180, 175, 165, 0.50);
+    background-color: var(--theme);
+    color-scheme: light;
+}
+
+body.list.section-taichi {
+    background: var(--code-bg);
+}
+
+/* --- Code section: dark theme --------------------------------- */
+body.section-code,
+body.list.section-code {
+    --theme: #0f1117;
+    --entry: #1a1d27;
+    --primary: rgba(225, 225, 230, 0.92);
+    --secondary: rgba(160, 160, 170, 0.70);
+    --tertiary: rgba(60, 62, 72, 0.80);
+    --content: rgb(210, 210, 218);
+    --code-block-bg: #0f1117;
+    --code-bg: #1a1d27;
+    --border: rgba(60, 62, 72, 0.70);
+    background-color: var(--theme);
+    color-scheme: dark;
+}
+
+body.list.section-code {
+    background: var(--theme);
+}
+
+/* --- Navigation link colors match section -------------------- */
+body.section-taichi #top > header a,
+body.section-taichi #top > header .logo {
+    color: var(--primary);
+}
+
+body.section-code #top > header a,
+body.section-code #top > header .logo {
+    color: var(--primary);
+}
+
+/* --- Post entry cards: ensure contrast in both sections ------- */
+body.section-taichi .post-entry {
+    background: var(--entry);
+    border: 1px solid var(--border);
+}
+
+body.section-code .post-entry {
+    background: var(--entry);
+    border: 1px solid var(--border);
+}
+
+/* --- Code blocks always dark regardless of section ----------- */
+body.section-taichi pre,
+body.section-taichi code {
+    background: var(--code-block-bg);
+    color: #e2e8f0;
+}
+
+body.section-taichi :not(pre) > code {
+    background: var(--code-bg);
+    color: var(--content);
+}

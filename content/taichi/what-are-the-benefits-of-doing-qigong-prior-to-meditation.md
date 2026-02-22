@@ -1,0 +1,42 @@
+---
+categories:
+- Qigong
+date: 2012-05-07T06:00:06Z
+tags:
+- Qigong
+- Meditation
+title: What Are The Benefits Of Doing Qigong Prior To Meditation?
+aliases:
+- /2012/05/07/what-are-the-benefits-of-doing-qigong-prior-to-meditation/
+---
+
+
+![Standing Qigong as Prep for Meditation](/uploads/2012/05/Stake-Standing-200x300.jpg)
+
+The most popular discussion topic in the [Inner Form coaching section](/inner-form/ "Inner Form Coaching") for April was the question of how to integrate qigong and meditation.
+
+The original poster asked, "What are the benefits of doing qigong prior to meditation? I would think that doing qigong before meditation would help to have a deeper meditation practice and vice versa? Is this true ? Does it depend on the set or practice you are doing? What should one consider?"
+
+Different members shared their experience and advice for working through the practice dilemma.
+
+One said, "it makes sense that both practices complement/amplify each other at the physical and chi body levels (physical health) although meditation is of course also geared for higher level development. I read somewhere that if, for whatever reason, you are intending a longer meditation than qigong practice then doing qigong first is advised and vice versa. Is there any merit in allocating equal time to each (appreciating that for varying reasons the depth and effectiveness of each practice will vary from day to day regardless of time spent)?
+
+As to whether particular qigong sets vary in their relevance to meditation, I guess there must be some significance. 'Gods' is listed as being a 'bridge' to meditation and I've heard it described as shen (spiritual) gong by some. Standing and Outer Dissolving are part of Energy Gates so it would seem there must be some sense of progression from Energy Gates to seated meditation. I wonder whether Dragon and Tiger might be appropriate if one of the aims of meditation is related to healing.  
+If one's movement practice is very much oriented towards a meditative approach then perhaps alternating between seated, standing and moving modes has merit â€" how much does order really matter?  
+In my own daily practice I try and do a full set of 'Gods' before meditating in the morning â€" I'm currently following [Bruce's Meditation Circle](/taichi/bruce-frantzis-new-taoist-meditation-circle/ "Bruce Frantzis' New Taoist Meditation Circle") course. I do other 'random' mini and micro practices as and when during the day and evening. At weekends I follow the meditation with a break, and then 'Dragon and Tiger', followed by another break and then Tai Chi if chores permit. I don't tend to look at/think about the time unless there are external constraints. "
+
+From another member: "This is a riddle that i play with nearly every morning, if time permits. Â For my own sanity, if only have time for one practice, I'll do meditation. Â I have been doing Buddhist zazen for forty years, so it is clear to me how much this practice does to ease my sufferingâ€"and that of the people I connect with during the day, thanks to the way it creates space around judging myself and others, and how it helps release the need to always be busy. If there is time, I generally do some simple qigong practice firstâ€"sometimes just circling hands, often Marriage of H&E, sometimes the first two moves of Gods with the fourth for grounding.
+
+Often when I start sitting, I will hold my hands off at my sidesâ€"I sit in a chair due to hip problems, and alternately press down and release my hands to help my body ground. Â Sometimes, but not always, I will open and close my hands and feet and top of the head lightly for the first few minutes of sitting, before just letting that go.
+
+**My own sense is that the qigong helps to minimize the risk of just "dead sitting" that can happen when folks become tight and dry in their meditating.** Â The point of potential problem for qigongers meditating is that usually there is a sense when doing qigong that something is being generated, that something is improving. In meditating, at least Buddhist style, the root practice is allowing oneself to feel complete no matter how shattered, incomplete, hopeless, depleted, dry or inattentive one may feel. Â For one small period in one's daily life, one is not practicing self improvement. Â Not that qigongers might not also practice this way, but generally my experience has been that this is not the usual mode."
+
+And another perspective: "I like to do sinking or dissolving and qigong usually cloud hands and spine stretch when I have any time. I have been involved in the Taoist meditation circle for 3 months or so. I like to use the month current module and then I will practice a previous one after. I have found the module 4 very helpful. It releases tension stored in my internal images and inner dialogue. **These greatly enhance my overall practice as well as release a kind of overall tension that is a great relief and gives me a feeling of not being stuck and being able to move forward.** I feel like before I wasted tons of energy just sort of hitting my head against patterns of thought and tension which now seems like I'm installing ways to move on to more productive ways to be."
+
+There are some real gems in this discussion, like the way you can energize your sitting with qigong and the insight about just letting go of whatever comes up.
+
+If you establish a regular practice rhythm, you can think about this question on a weekly, monthly, or seasonal scale too, not just the daily sessions. When the rhythm is strong, you feel the effects of the practice on other areas â€" like qigong on sitting â€" without worrying about doing them in the same session. You're priming larger energetic rhythms and waking up inside, which carries over between practice sessions.
+
+If this is the direction your practice is heading in, come join the discussion in the Inner Form session. As you can tell from the comments, there are dedicated, knowledgeable practitioners eager to share their experiences with each other and we always welcome new voices in the conversation.
+
+You might also want to check out my class on [Straight Lines, Circles, and Spheres](/taichi/the-evolution-of-smoothness-in-your-practice/ "The Evolution of Smoothness in Your Practice"), where we discussed some of these practice mindset issues, and how the shapes of the qigong sets actually help you cultivate a quality of mind.
