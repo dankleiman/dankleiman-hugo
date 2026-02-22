@@ -1,0 +1,26 @@
+{{- define "main" }}
+<div class="home-split">
+
+  <a class="home-panel home-panel--taichi" href="/taichi/">
+    <div class="home-panel__content">
+      <h2 class="home-panel__title">Tai Chi</h2>
+    </div>
+  </a>
+
+  <a class="home-portrait" href="/about/" aria-label="About Dan Kleiman">
+    {{- $img := resources.Get "images/headshot.jpg" }}
+    {{- if $img }}
+    <img src="{{ $img.RelPermalink }}" alt="Dan Kleiman">
+    {{- else }}
+    <div class="home-portrait__placeholder">DK</div>
+    {{- end }}
+  </a>
+
+  <a class="home-panel home-panel--code" href="/code/">
+    <div class="home-panel__content">
+      <h2 class="home-panel__title">Code</h2>
+    </div>
+  </a>
+
+</div>
+{{- end }}

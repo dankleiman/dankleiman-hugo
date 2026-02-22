@@ -18,6 +18,7 @@ googleAnalytics = "UA-19970008-2"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = false
+  disableThemeToggle = true
 
 [params.homeInfoParams]
   Title = "Dan Kleiman"

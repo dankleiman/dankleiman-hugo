@@ -16,15 +16,19 @@
     {{- partial "head.html" . }}
 </head>
 
-{{- $sectionClass := "" }}
-{{- if .Section }}
-{{- $sectionClass = printf " section-%s" .Section }}
+{{- $bodyClass := "" }}
+{{- if .IsHome }}
+{{- $bodyClass = "page-home" }}
+{{- else if .Params.bodyClass }}
+{{- $bodyClass = .Params.bodyClass }}
+{{- else if .Section }}
+{{- $bodyClass = printf "section-%s" .Section }}
 {{- end }}
 
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) }}
-<body class="list{{ $sectionClass }}" id="top">
+<body class="list{{ if $bodyClass }} {{ $bodyClass }}{{ end }}" id="top">
 {{- else }}
-<body class="{{ $sectionClass | strings.TrimLeft " " }}" id="top">
+<body class="{{ $bodyClass }}" id="top">
 {{- end }}
     {{ partialCached "header.html" . .Page -}}
     <main class="main">
