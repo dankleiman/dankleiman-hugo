@@ -1,0 +1,74 @@
+---
+categories:
+- Practice People
+date: 2012-01-18T09:35:29Z
+tags:
+- Tai Chi
+- State of the Art
+- Dr. Mark Cheng
+title: How Dr. Mark Cheng is Bringing Tai Chi to the Fitness Community, Part 1
+aliases:
+- /2012/01/18/how-dr-mark-cheng-is-bringing-tai-chi-to-the-fitness-community-part-1/
+---
+
+
+[![Dr Mark Cheng performing Tai Chi](/uploads/2012/01/DrCheng-179x300.jpg)](/uploads/2012/01/DrCheng.jpg)Dr. Mark Cheng compares learning Tai Chi to studying a well-cut diamond, and as you'll see in the following conversation, his background as an acupuncturist, martial artist, strength coach and PhD in Chinese Medicine actually allows him to look at the broader subject of fitness and wellness in the same multi-faceted way. With the depth and range he brings to teaching movement, it's no wonder that he's leading the way to introducing Tai Chi to a much larger fitness audience and in the process, asking all Tai Chi people to step back and take a fresh look at their art.  
+
+
+We talked about his upcoming project, called Tai Cheng, an introduction to Tai Chi and healthy movement coming out in 2012, as well as his journey through movement and martial arts, going all the way back to his first experience with Tai Chi at age 10.
+
+Dr. Cheng's message is clear and ambitious:
+
+> My deepest wish for Tai Cheng is that this takes off. Whether using Tai Chi as the vehicle or whether using functional movement as the vehicle, we need to be able to show the world and be able to teach the world to see that effective exercise is not just about sets and reps. It's not just about how much weight did you move. The focus of Tai Cheng is on the quality of your movement and how you feel at the end of the day.
+> 
+> Also, a good exercise program considers how you're going to be in the long run. If you're training really hard now, you may look great after doing 90 days of high intensity training, but then your body may be so trashed from repetitive motion injury. Because of the pain, there could be so much cortisol going through your body that you're really fighting a losing battle against weight gain. So obviously situations like this aren't productive.
+> 
+> I want to show people that you've got to be able to regulate stress. You've got to be able to eat well and eat healthy, but also live healthy and make healthy choices as far as your own exercise. Seeing people make the leap in understanding that takes them just from sets & reps to seeing that quality of movement comes first would thrill me to no end.
+> 
+> As you read about his initial exposure to Tai Chi and his growing movement education, you'll see how several different intertwined threads have brought him to this project.
+
+  
+On his early training background:
+
+> My first love has always been Chinese martial arts. I was fortunate enough to start before adulthood. My first exposure to Chinese martial arts was with my father, who studied Tai Chi with one of Cheng Man Ching's students.
+> 
+> I remember the first time I saw my father practicing Tai Chi. It looked like the funniest thing to me. When you're a little kid and you watch someone moving in slow motion like that, you're just struggling to suppress the snickering.
+> 
+> Eventually, my father heard me giggling and was like, "Hey, you think this is funny, but this is really martial arts!"
+> 
+> And that thought sounded even funnier to me. So, then I totally lost it... You can imagine a little kid rolling around on the floor laughing his head off.
+> 
+> So my father goes, "Okay, you don't realize that. Well, throw a punch right at me."
+> 
+> And I was like, "Oh, really? Okay!"
+> 
+> I just teed off and with Shou Hui Pipa (Play the Pipa), he launched me and I remember it's like I didn't really feel anything. It wasn't like a hard joint lock, no pain. It's just that I threw a punch and next thing I knew, I was sailing through the air.
+> 
+> I remember thinking, "Wow! This is sweet. I've got to learn this!â€ That was 30 years ago.
+> 
+> When I came out to California to pursue my undergraduate degree, I was fortunate enough to study martial arts under several outstanding masters, from Prof. Daniel Lee to Shotokan Karate pioneer Tsutomu Ohshima. At a certain point, my interests in Chinese martial arts led right into Chinese medicine. I remember seeing my Shaolin teacher, Hong Li-rong, occasionally seeing patients on evenings that we had training classes. We would bow to start class, and then he'd turn the class over to one of the senior students for warmup while he would use his manual medicine skills to heal people. And as you know, a lot of the higher-level sifu are also, in addition to their martial skills, very renowned for their medical or healing skills.
+> 
+> After finishing my undergrad degree in East Asian Studies at UCLA, I did a short stint in import-export, realized I wasn't doing what made me happy, and then went on to study acupuncture here in California. After graduation & earning board licensure, I apprenticed with one of Dr. Yu Da-Fang's disciples to study tui na (Chinese manual medicine).
+> 
+> I have been specializing in Chinese manual medicine since then, which allowed me to meet the legendary Sifu Dan Inosanto, and he in turn introduced me to Pavel Tsatsouline, who is the founder of the RKC Kettlebell method. Pavel introduced me to Gray Cook, the founder of the FMS, or Functional Movement Systems. So Chinese medicine really brought me to three of my most important mentors.
+> 
+> Gray has been responsible for really revolutionizing my whole view of medicine and of patient care. Working with Gray has really given me a new motivation for going back and reviewing Tai Chi and reviewing traditional Chinese martial arts in general to see what gems are in the training.
+
+  
+As you can see, this is a very traditional upbringing in the Chinese martial arts. At the same time, Dr. Cheng has also connected to people in the fitness world who also have a very complete paradigm for understanding movement and understanding the body. Now, he is holding these two paradigms and treating them in their own right, but also seeing differences and seeing crossover points.
+
+> One of the ways I talk about it when my patients ask me or when my colleagues ask me, "What's your direction? What are you all about? Why can't you define yourself professionally as one thing or the other?"
+> 
+> My explanation is that it really goes back to â€œWhat is Asian-American?â€
+> 
+> We have the luxury of coming from a culture that's very old with a lot of traditional, old, and powerful knowledge. But being that we are American, we have the freedom to look at what we have, what we come to the table with, in terms of our own culture, with a critical eye. We can look at the things that we bring to the table, and say that certain things may not stand the test of time in terms of laboratory validation. That freedom allows us to change, to evolve, and to improve.
+> 
+> Because we're also here in the States, we have access to so much information and so much openness, breadth of thought, and discovery. I think it would be a bigger travesty to not take advantage of that freedom to learn from the people that we have surrounding us who are just brilliant minds.
+
+  
+If you look at the history of Tai Chi too, of course there were innovators and there was ongoing research. And people would come along and say, "Let's take it one way or take it the other way." People err on the side of thinking that tradition is a static thing.
+
+> I think one of the biggest mistakes is when you hear from people who say tradition is static. It's not, because if you look at the term "mixed martial art" you look at systems like Choy Lee Fut. By definition, that's an amalgam of three systems already. That's a mixed martial art. So, what's mixed? What's not mixed? I mean, these things have been mixed, and synthesized, and rethought, and reworked since time immemorial. It wasn't until we got dogmatic in saying that, "No, no. It has to be this way."
+
+  
+In Part 2, Dr. Cheng will go into detail about how he chose a focus for his new project and how it aims to bring Tai Chi to a wide audience, especially people who have had little or no exposure to genuine Tai Chi. For more about Dr. Cheng's work and his upcoming Tai Cheng project, visit: [www.facebook.com/taichengworkout](http://www.facebook.com/taichengworkout)

@@ -1,0 +1,72 @@
+---
+categories:
+- Practice People
+date: 2011-06-09T12:17:44Z
+tags:
+- Ba Gua
+- Energy Arts
+- Trainerfly Backstory
+- Online Learning
+- Paul Cavel
+title: Q&A with Energy Arts Senior Instructor Paul Cavel
+aliases:
+- /2011/06/09/energy-arts-senior-instructor-paul-cavel/
+---
+
+
+[![Energy Arts Senior Instructor Paul Cavel](/uploads/2011/06/Paul_Cavel_Bagua-225x300.jpg)](/uploads/2011/06/Paul_Cavel_Bagua.jpg)Paul Cavel is an Energy Arts Senior Instructor based in London. He teaches regular weekly classes there, but he's also been traveling all over the UK and Europe for years teaching workshops, including annual week-long retreats in Crete. I talked to Paul a little bit about his background in Tai Chi, neigong, and Ba Gua and asked him for some practice advice for a group of students who just completed a series at BTC on the Marriage of Heaven and Earth.
+
+**Tell me a little bit about how you got started studying these arts. Who were some of your first influential teachers?**  
+After a motorcycle accident in 1986, I started studying Yang style tai chi to heal my injuries. When the teacher left, the class naturally gravitated towards the Water method neigong practices as taught by my main teacher, Bruce Frantzis. I've been hooked ever since.
+
+**Over the last 30 years, Bruce has taught in so many different places and formats. When and how did you first start studying with him?**
+
+My first encounter with Bruce was in a London seminar on the spiraling energy body. Of course, that material really opened my eyes to what qigong could do! When I subsequently lived with Bruce some years later in 1994-1995, my passion for bagua was ignited in his weekly classes. I got in by the skin of my teeth as one of the last students he let into the class
+
+.  
+**Since you've studied with Bruce, have you had other influential teachers? Have you studied complementary arts that you bring into your teaching?**
+
+I've attended the odd seminar with a reputable Chinese master or two, including a couple of months of early morning training in the park with a master in California. I've also attended events hosted by the Tai Chi Union of Great Britain where several teachers offer workshops. I've picked up the odd tidbit here and there from these courses. However, my direction is a product of Bruce's mentoring and the desire to follow the tenants of the genuine Water tradition as passed down by him. Bruce is my one and only teacher.  
+****
+
+![Paul and Energy Arts Instructor Peter Jenkins](/uploads/2011/06/Paul_Cavel_SPC1-225x300.jpg)
+
+**Tell me a little bit about your teaching. Do you run regular classes? Workshops? Who are your students?**
+
+I teach full-time and offer various teaching formats, including:
+
+  * Weekly classes and seminars in Kentish Town, London
+  * Weekend seminars in England and Germany
+  * Weeklong retreats in Greece and Germany
+  * Corporate training and executive coaching
+  * Private and small group lessons
+  
+
+  
+I have students from all walks of life who practise for a wide variety of reasons. Some are looking for a system to maintain health and wellness while others are professionals who want an edge and/or a means for releasing stress. I also see many Energy Arts instructors who want to prepare for certification trainings or upgrade their practice and understanding of the material.  
+****
+
+**What are the three most important points that you would like other instructors to know about regarding your practice or your teaching or your business?**
+
+  1. My practice and my teaching are neigong-based. That is I focus on the strands of neigong that develop the body, chi and mind, and then integrate that material into Circle Walking, bagua, tai chi and meditation.
+  2. I'm based in North London where I offer my full programme. The seminar series and retreats I teach in Europe are designed with a particular focus in mind to help students develop that particular aspect of practice.
+  3. I offer a lot of hands-on personal corrections, partner exercises and component practice sets with a systematic, progressive focus. My aim is to help students solidify their foundation and integrate the deeper aspects of neigong that ultimately intertwine to create the more complex movement forms of bagua and tai chi.
+  
+
+  
+**Some of my students have just finished a series on the Marriage of Heaven and Earth, where they learned to open and close the joints of the arms and legs. How should they continue to work on this practice on their own?**
+
+Once you have opened up the pulse, the next step is to balance your system. This is normally done through Circling Hands Qigong, an easy, repetitive motion that allows the mind to focus on the content rather that the form.
+
+Through practice of Circling Hands Qigong, the process is simple: compare the pulse in the joint on the left side to the corresponding joint on the right side of your body, and make them the same. This is done by reducing the joint with the larger range to that of the joint with the smaller range. Go through all the pairs, e.g. hands, feet, elbows and knees. Next, compare each pair to all other pairs, e.g. hands to feet, elbows to knees, shoulders to hips, and equalise any imbalances.
+
+By reducing your range of motion to the joint with the smallest range, you can:
+
+  * Dramatically soften the pulse.
+  * Release the nervous system.
+  * Deepen the pulse in the joints.
+  * Link the pulsing of the joints into one unified lattice, thereby amplifying the positive effects of the pulse.
+  
+
+  
+For more from Paul on the art of pulsing, check out this two-part series,Â [here](http://www.circlewalking.com/1469/pulsing-tai-chi/) and [here](http://www.circlewalking.com/1501/pulsing-bagua-zhang/).

@@ -1,0 +1,274 @@
+/* ============================================================
+   HOME PAGE SPLIT LAYOUT
+   ============================================================ */
+
+/* Home page: full-screen split, no header or footer */
+body.page-home header,
+body.page-home footer {
+    display: none;
+}
+
+body.page-home {
+    overflow: hidden;
+}
+
+/* Let the split fill the full viewport */
+body.page-home .main {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.home-split {
+    display: flex;
+    min-height: 100vh;
+    position: relative;
+}
+
+.home-panel {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    transition: brightness 0.2s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.home-panel:hover {
+    filter: brightness(0.94);
+}
+
+.home-panel--taichi {
+    background: #f9f7f4;
+    color: rgba(20, 20, 20, 0.88);
+}
+
+.home-panel--code {
+    background: #0f1117;
+    color: rgba(225, 225, 230, 0.90);
+}
+
+.home-panel__content {
+    text-align: center;
+    padding: 3rem 4rem;
+    max-width: 320px;
+}
+
+.home-panel__title {
+    font-size: clamp(2rem, 4vw, 3.5rem);
+    font-weight: 700;
+    margin: 0 0 1rem;
+    color: inherit;
+    line-height: 1.1;
+}
+
+.home-panel__desc {
+    font-size: clamp(0.95rem, 1.5vw, 1.1rem);
+    line-height: 1.6;
+    margin: 0 0 2rem;
+    opacity: 0.65;
+}
+
+.home-panel--taichi .home-panel__cta {
+    display: inline-block;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    border-bottom: 2px solid rgba(20, 20, 20, 0.5);
+    padding-bottom: 2px;
+    color: rgba(20, 20, 20, 0.88);
+}
+
+.home-panel--code .home-panel__cta {
+    display: inline-block;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    border-bottom: 2px solid rgba(225, 225, 230, 0.5);
+    padding-bottom: 2px;
+    color: rgba(225, 225, 230, 0.90);
+}
+
+/* Circular portrait at the center seam — links to /about/ */
+.home-portrait {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid #fff;
+    box-shadow: 0 4px 32px rgba(0, 0, 0, 0.35);
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.home-portrait:hover {
+    transform: translate(-50%, -50%) scale(1.06);
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.45);
+}
+
+.home-portrait img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+}
+
+/* Placeholder shown when no headshot image exists */
+.home-portrait__placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #c8bfb0 0%, #6b7280 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.05em;
+}
+
+/* Mobile: stack vertically, portrait between panels */
+@media (max-width: 640px) {
+    .home-split {
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    .home-panel {
+        min-height: 42vh;
+        justify-content: center;
+    }
+
+    .home-panel--taichi .home-panel__content {
+        padding-bottom: 5rem; /* space for overlapping portrait */
+    }
+
+    .home-panel--code .home-panel__content {
+        padding-top: 5rem;
+    }
+
+    .home-portrait {
+        top: 42vh; /* sits at the seam between the two stacked panels */
+        transform: translate(-50%, -50%);
+        width: 110px;
+        height: 110px;
+    }
+}
+
+/* ============================================================
+   DUAL-SECTION THEMING
+   /taichi/ = light (warm white, ink text)
+   /code/   = dark  (near-black, off-white text)
+   ============================================================ */
+
+/* --- Tai Chi section: light theme ----------------------------- */
+body.section-taichi,
+body.list.section-taichi {
+    --theme: #f9f7f4;
+    --entry: #ffffff;
+    --primary: rgba(20, 20, 20, 0.90);
+    --secondary: rgba(60, 60, 60, 0.65);
+    --tertiary: rgba(180, 175, 165, 0.60);
+    --content: rgb(35, 33, 30);
+    --code-block-bg: rgb(40, 40, 40);
+    --code-bg: #ede9e1;
+    --border: rgba(180, 175, 165, 0.50);
+    background-color: var(--theme);
+    color-scheme: light;
+}
+
+body.list.section-taichi {
+    background: var(--code-bg);
+}
+
+/* --- Code section: dark theme --------------------------------- */
+body.section-code,
+body.list.section-code {
+    --theme: #0f1117;
+    --entry: #1a1d27;
+    --primary: rgba(225, 225, 230, 0.92);
+    --secondary: rgba(160, 160, 170, 0.70);
+    --tertiary: rgba(60, 62, 72, 0.80);
+    --content: rgb(210, 210, 218);
+    --code-block-bg: #0f1117;
+    --code-bg: #1a1d27;
+    --border: rgba(60, 62, 72, 0.70);
+    background-color: var(--theme);
+    color-scheme: dark;
+}
+
+body.list.section-code {
+    background: var(--theme);
+}
+
+/* --- Navigation link colors match section -------------------- */
+body.section-taichi #top > header a,
+body.section-taichi #top > header .logo {
+    color: var(--primary);
+}
+
+body.section-code #top > header a,
+body.section-code #top > header .logo {
+    color: var(--primary);
+}
+
+/* --- Post entry cards: ensure contrast in both sections ------- */
+body.section-taichi .post-entry {
+    background: var(--entry);
+    border: 1px solid var(--border);
+}
+
+body.section-code .post-entry {
+    background: var(--entry);
+    border: 1px solid var(--border);
+}
+
+/* --- Code blocks always dark regardless of section ----------- */
+body.section-taichi pre,
+body.section-taichi code {
+    background: var(--code-block-bg);
+    color: #e2e8f0;
+}
+
+body.section-taichi :not(pre) > code {
+    background: var(--code-bg);
+    color: var(--content);
+}
+
+/* --- About / standalone pages: cool slate-blue ---------------- */
+body.section-about,
+body.list.section-about {
+    --theme: #edf2f8;
+    --entry: #f6f9fd;
+    --primary: rgba(18, 25, 38, 0.88);
+    --secondary: rgba(50, 65, 90, 0.60);
+    --tertiary: rgba(150, 170, 200, 0.55);
+    --content: rgb(25, 35, 52);
+    --code-block-bg: rgb(30, 38, 50);
+    --code-bg: #dce5f0;
+    --border: rgba(150, 170, 200, 0.45);
+    background-color: var(--theme);
+    color-scheme: light;
+}
+
+/* --- About page social links --------------------------------- */
+.about-social {
+    margin-top: 2.5rem;
+    font-size: 0.9rem;
+    opacity: 0.55;
+}
+
+.about-social a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+}
+
+.about-social a:hover {
+    opacity: 1;
+}
