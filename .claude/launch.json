@@ -4,7 +4,7 @@
     {
       "name": "hugo",
       "runtimeExecutable": "hugo",
-      "runtimeArgs": ["server", "--port", "8080", "--bind", "0.0.0.0"],
+      "runtimeArgs": ["server", "--port", "8080", "--bind", "0.0.0.0", "--buildFuture"],
       "port": 8080
     }
   ]

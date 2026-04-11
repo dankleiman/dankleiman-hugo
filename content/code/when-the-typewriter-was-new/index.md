@@ -5,10 +5,6 @@ description: "Software engineers are told to automate or be automated. But 150 y
 summary: "Software engineers are told to automate or be automated. But 150 years ago, the typewriter promised the same thing — and real adoption was gradual."
 tags: ["AI", "history", "software engineering"]
 categories: ["code"]
-cover:
-  image: images/typewriter-to-keyboard.svg
-  alt: "Illustration of a typewriter transforming into a modern keyboard"
-  relative: true
 ---
 
 Software engineers have been given an impossible task in 2025: "automate your job with AI or be automated out of a job." You are being asked to surf a wave of tools that promise to fix all your bugs and generate your code. Paddle fast or you'll drown! Every day it feels like there are more new tools than you could even try out. Does work really change this quickly?
@@ -31,8 +27,6 @@ Fear of being replaced and curiosity about new possibilities are normal reaction
 
 ## A Tide, Not A Wave
 
-![A tide, not a wave: contrasting the panic of a crashing wave with the reality of a gradual rising tide](images/tide-not-a-wave.svg)
-
 Like a tide gradually reshaping the shoreline, the typewriter took decades to change office work. Businesses had to invest in new equipment, workflows, and above all, training programs. Typing schools flourished. Whole new jobs emerged: secretaries, typists, stenographers.
 
 In [The Introduction of the Sholes & Glidden Type-Writer, 1874](https://branchcollective.org/?ps_articles=christopher-keep-the-introduction-of-the-sholes-glidden-type-writer-1874), Christopher Keep describes how the typewriter changed roles over time. He says that clerical work was traditionally done by men "who demanded a wage sufficient to raise a family, and expected to rise in the ranks and become in due course managers or even partners in the firm. Female typists, by contrast, were willing to accept such work for half the wages that their male counterparts received." Despite this gender bias, or maybe because it still created favorable work opportunities, these roles quickly became associated with young women.
@@ -49,7 +43,7 @@ For now, though, new roles will keep appearing and new promises of greater produ
 
 Early typewriter ads promised big productivity gains too — "three times faster than handwriting." Business communication needed to happen at machine speeds to match the telegraph and railroads.
 
-![Harrisburg Telegraph advertisement for The Type-Writer, January 25, 1876, promising one man with the Type-Writer will do the work of three with the pen](images/harrisburg-telegraph-1876.png)
+[![Harrisburg Telegraph advertisement for The Type-Writer, January 25, 1876, promising one man with the Type-Writer will do the work of three with the pen](images/harrisburg-telegraph-1876.png)](https://type-writer.org/?p=3239)
 
 But when was the last time anyone compared typing speed to handwriting? Does any company advertise typing skills as a competitive advantage?
 
@@ -59,13 +53,11 @@ We aren't anywhere close to that. Each new model release sparks anxiety or excit
 
 ## We Are Still Early
 
-![Timeline showing typewriter evolution from experimental prototypes to standardization to invisible foundation, with AI marked at the beginning of the same journey](images/typewriter-evolution-timeline.svg)
-
 We are still in the experimental phase of AI. The next new model will arrive dramatically, but it won't complete the AI revolution any more than typewriter prototypes of the 1860s resemble the typewriter you know today.
 
 Early typewriter patents show us how clunky and haphazard innovation progress can be. There are machines you would barely recognize as a typewriter: circular keyboards, rotating paper feeds, even piano-like designs. Nobody knew which components would be part of the final design.
 
-![Christopher Latham Sholes's 1878 patent for the Type-Writing Machine, featuring a QWERTY keyboard nearly identical to the ones still in use today](images/qwerty-layout.jpeg)
+[![Early version of a typewriter with a circular dial](images/circular-dial.jpg)](https://oztypewriter.blogspot.com/2014/01/typewriter-update-december-2013.html)
 
 In 1903, Simon North, a director who brought typewriters into the Census Bureau, [wrote that he regretted not keeping early versions](https://type-writer.org/?p=7047): "…it would have illustrated better than any other mechanism with which I am familiar the marvelous rapidity with which American ingenuity advances to the point of perfecting any labor saving instrument."
 
