@@ -7,7 +7,7 @@ tags: ["AI", "history", "software engineering"]
 categories: ["code"]
 ---
 
-Software engineers have been given an impossible task in 2025: "automate your job with AI or be automated out of a job." You are being asked to surf a wave of tools that promise to fix all your bugs and generate your code. Paddle fast or you'll drown! Every day it feels like there are more new tools than you could even try out. Does work really change this quickly?
+Software engineers have been given an impossible task in 2026: "automate your job with AI or be automated out of a job." You are being asked to surf a wave of tools that promise to fix all your bugs and generate your code. Paddle fast or you'll drown! Every day it feels like there are more new tools than you could even try out. Does work really change this quickly?
 
 When the typewriter first entered the office one hundred fifty years ago, it also promised to transform work overnight. People reacted with the same mix of emotions that they do to AI today: fear of automation and curiosity about what might be possible with new tools.
 
@@ -79,4 +79,4 @@ Maybe we don't need to paddle faster than a crashing wave after all. Forget the 
 
 ---
 
-*Sources: I leaned heavily on Christopher Keep's [essay on the Sholes & Glidden typewriter](https://branchcollective.org/?ps_articles=christopher-keep-the-introduction-of-the-sholes-glidden-type-writer-1874), the [Type-Writer.org](https://type-writer.org) archives, Mark Twain's [The First Writing Machines](https://americanliterature.com/author/mark-twain/short-story/the-first-writing-machines), and Thomas Whalen's "Office Technology and Socio-Economic Change 1870-1955" (IEEE Technology and Society Magazine, 1983). The 1876 Harrisburg Telegraph advertisement appeared in the paper on January 25, 1876, advertising the Type-Writer through the Aeolian Organ Co. The Sholes patent drawing is from U.S. Patent No. 207,559, August 27, 1878.*
+*Sources: This essay was inspired by Christopher Keep's [essay on the Sholes & Glidden typewriter](https://branchcollective.org/?ps_articles=christopher-keep-the-introduction-of-the-sholes-glidden-type-writer-1874), the [Type-Writer.org](https://type-writer.org) archives, Mark Twain's [The First Writing Machines](https://americanliterature.com/author/mark-twain/short-story/the-first-writing-machines), and Thomas Whalen's "Office Technology and Socio-Economic Change 1870-1955" (IEEE Technology and Society Magazine, 1983). The 1876 Harrisburg Telegraph advertisement appeared in the paper on January 25, 1876, advertising the Type-Writer through the Aeolian Organ Co. The Sholes patent drawing is from U.S. Patent No. 207,559, August 27, 1878.*
