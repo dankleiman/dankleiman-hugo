@@ -108,4 +108,4 @@ Run the moderator loop:
 
 Act as the moderator from the moment you share the document, not just when everyone gets together at the end.
 
-That discipline is only half the fix. The other half sits with whoever's leaving the comments. In [Inline Comments Suck for Doc Review, Part II](/code/inline-comments-suck-for-doc-review-part-ii/), we flip the vantage point and look at what it takes to review a design doc well.
+*In [Inline Comments Suck for Doc Review, Part II](/code/inline-comments-suck-for-doc-review-part-ii/), we look at what it takes to review a design doc well.*
