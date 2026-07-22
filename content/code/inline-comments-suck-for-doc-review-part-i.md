@@ -1,10 +1,11 @@
 ---
-title: "Inline Comments Suck for Doc Review"
+title: "Inline Comments Suck for Doc Review, Part I"
 date: 2026-07-21
 description: "Comment threads on a design doc create a false sense of progress. Real design review means treating comments as signals to synthesize into decisions, not a checklist to clear one thread at a time."
 summary: "Comment threads on a design doc create a false sense of progress. Real design review means treating comments as signals to synthesize into decisions, not a checklist to clear one thread at a time."
 tags: ["design docs", "engineering management", "writing"]
 categories: ["code"]
+aliases: ["/code/inline-comments-suck-for-doc-review/"]
 ---
 
 Writing a technical design document is supposed to help teams arrive at a sound engineering decision.
