@@ -7,7 +7,7 @@ tags: ["engineering management", "feasibility", "estimation"]
 categories: ["code"]
 ---
 
-Recently, I was asked to assess the feasibility of a new account migration tooling.
+Recently, I was asked to assess the feasibility of a new account migration tool.
 
 I was operating in a familiar tech lead role: leadership wanted an answer about whether the project was worth pursuing, while the teams involved needed enough technical definition to understand what they might actually have to build.
 
