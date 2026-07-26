@@ -3,7 +3,7 @@ title: "Inline Comments Suck for Doc Review, Part II"
 date: 2026-07-22
 description: "Leaving a comment every time something catches your eye feels like a thorough review, but it just hands the author a pile of reactions to organize. Here's how to review like you're helping drive a decision, not narrating your read."
 summary: "Leaving a comment every time something catches your eye feels like a thorough review, but it just hands the author a pile of reactions to organize. Here's how to review like you're helping drive a decision, not narrating your read."
-tags: ["design docs", "engineering management", "writing"]
+tags: ["software engineering", "design review", "technical leadership"]
 categories: ["code"]
 ---
 

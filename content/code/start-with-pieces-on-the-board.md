@@ -3,7 +3,7 @@ title: "Start with Pieces on the Board"
 date: 2026-07-26
 description: "LLMs make it possible for one person to prototype several plausible end-to-end designs before a cross-team feasibility conversation starts, turning a blank whiteboard into a concrete comparison of trade-offs."
 summary: "LLMs make it possible for one person to prototype several plausible end-to-end designs before a cross-team feasibility conversation starts, turning a blank whiteboard into a concrete comparison of trade-offs."
-tags: ["engineering management", "feasibility", "AI"]
+tags: ["software engineering", "AI", "software architecture", "engineering planning"]
 categories: ["code"]
 ---
 

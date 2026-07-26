@@ -3,7 +3,7 @@ title: "When the Typewriter Was New: Lessons for the AI Wave"
 date: 2026-04-11
 description: "Software engineers are told to automate or be automated. But 150 years ago, the typewriter promised the same thing — and real adoption was gradual. What can we learn?"
 summary: "Software engineers are told to automate or be automated. But 150 years ago, the typewriter promised the same thing — and real adoption was gradual."
-tags: ["AI", "history", "software engineering"]
+tags: ["AI", "history", "software engineering", "developer tools"]
 categories: ["code"]
 ---
 

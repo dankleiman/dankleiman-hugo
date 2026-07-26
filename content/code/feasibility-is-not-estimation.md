@@ -3,7 +3,7 @@ title: "Feasibility Is Not Estimation"
 date: 2026-07-24
 description: "Rolling up team estimates for an ambitious cross-team project hides the architectural choices behind them. Real feasibility work means simulating how the pieces fit together before anyone estimates."
 summary: "Rolling up team estimates for an ambitious cross-team project hides the architectural choices behind them. Real feasibility work means simulating how the pieces fit together before anyone estimates."
-tags: ["engineering management", "feasibility", "estimation"]
+tags: ["software engineering", "software architecture", "engineering planning", "technical leadership"]
 categories: ["code"]
 ---
 
