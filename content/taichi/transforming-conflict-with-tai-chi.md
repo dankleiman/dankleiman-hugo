@@ -5,6 +5,7 @@ date: 2012-09-24T05:00:54Z
 title: Transforming Conflict with Tai Chi
 aliases:
 - /2012/09/24/transforming-conflict-with-tai-chi/
+- "/transforming-conflict-with-tai-chi/"
 ---
 
 

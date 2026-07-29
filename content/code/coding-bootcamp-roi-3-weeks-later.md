@@ -6,6 +6,7 @@ categories:
 - Launch Academy
 aliases: 
 -  "/blog/2014/08/11/coding-bootcamp-roi-3-weeks-later/"
+-  "/2014/08/11/coding-bootcamp-roi-3-weeks-later/"
 ---
 
 It's been 3 weeks since I graduated from [Launch Academy](http://www.launchacademy.com) and I start work at a new job on Wednesday as a software developer.

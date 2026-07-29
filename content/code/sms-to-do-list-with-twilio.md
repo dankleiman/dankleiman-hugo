@@ -6,6 +6,7 @@ categories:
 - Twilio
 aliases: 
 -  "/blog/2015/08/13/sms-to-do-list-with-twilio/"
+-  "/2015/08/13/sms-to-do-list-with-twilio/"
 ---
 The other day, I had the pleasure of talking to someone who builds mobile apps with people in developing countries so that community health workers can deliver medical information and collect data.
 

@@ -2,7 +2,7 @@
 title = "Keeping an Engineering Notebook"
 date = "2018-01-28T22:52:26-05:00"
 categories = ['Code']
-aliases = ["/post/keeping-an-engineering-notebook/"]
+aliases = ["/post/keeping-an-engineering-notebook/", "/2018/01/28/keeping-an-engineering-notebook/"]
 +++
 The best upgrade I've made to my workflow in the past year was to start keeping an engineering notebook.
 

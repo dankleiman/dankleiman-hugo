@@ -6,6 +6,7 @@ categories:
 - Launch Academy
 aliases: 
 -  "/blog/2014/05/21/day-10-the-dreams-continue/"
+-  "/2014/05/21/day-10-the-dreams-continue/"
 ---
 It happened again.
 

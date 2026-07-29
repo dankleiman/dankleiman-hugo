@@ -2,7 +2,7 @@
 categories = ['Code', 'SQL']
 date = "2018-02-06T12:31:44-05:00"
 title = "3 Ways to Level Up Your SQL as a Software Engineer"
-aliases = ["/post/3-ways-to-level-up-your-sql-as-a-software-engineer/"]
+aliases = ["/post/3-ways-to-level-up-your-sql-as-a-software-engineer/", "/2018/02/06/3-ways-to-level-up-your-sql-as-a-software-engineer/"]
 +++
 
 If you are a software engineer and you have just enough SQL to write queries that count, sum, average join and maybe sub-select, then I'm writing this post for you. If, when you need more complicated analysis or computation, you pull your query results into excel or your favorite scripting language to do more processing, then I have some good news.

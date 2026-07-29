@@ -6,6 +6,7 @@ categories:
 - BigQuery
 aliases: 
 - "/blog/2017/10/30/top-n-per-group-in-bigquery/"
+- "/2017/10/30/top-n-per-group-in-bigquery/"
 ---
 **EDIT:** After I posted this initially, I got some [great](https://twitter.com/Dan_Kleiman/status/925921880397287425) [feedback](https://www.reddit.com/r/bigquery/comments/7aecfe/top_n_per_group_in_bigquery/), so I wrote a follow-up post [here](/2017/11/07/more-efficient-solutions-to-the-top-n-per-group-problem/).
 

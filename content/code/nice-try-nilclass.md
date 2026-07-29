@@ -6,6 +6,7 @@ categories:
 - Ruby
 aliases: 
 -  "/blog/2016/04/10/nice-try-nilclass/"
+-  "/2016/04/10/nice-try-nilclass/"
 ---
 
 I love that feeling when a new concept starts to come together in your mind and you can point to all the converging sources of insight.

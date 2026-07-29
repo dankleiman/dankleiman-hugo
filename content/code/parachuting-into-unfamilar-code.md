@@ -5,6 +5,7 @@ categories:
 - Code
 aliases: 
 -  "/blog/2015/01/11/parachuting-into-unfamilar-code/"
+-  "/2015/01/11/parachuting-into-unfamilar-code/"
 ---
 We have hundreds of models in our codebase at [TrialNetworks](http://www.trialnetworks.com).
 

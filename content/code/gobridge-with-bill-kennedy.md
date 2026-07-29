@@ -6,6 +6,7 @@ categories:
 - Golang
 aliases: 
 -  "/blog/2017/02/12/gobridge-with-bill-kennedy/"
+-  "/2017/02/12/gobridge-with-bill-kennedy/"
 ---
 
 Last weekend, I had the chance to volunteer at a GoBridge event taught by Bill Kennedy of Ardan Labs. I'm trying to make [2017 my year of learning Go](/blog/2016/12/29/my-5-strategies-for-learning-go-in-2017/), so helping out at the event felt like a natural extension and a great way to connect with more people in the Go community.

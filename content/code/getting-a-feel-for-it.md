@@ -6,6 +6,7 @@ categories:
 - Learning
 aliases: 
 -  "/blog/2014/03/20/getting-a-feel-for-it/"
+-  "/2014/03/20/getting-a-feel-for-it/"
 ---
 
 "I just want to get a feel for what I can change/do..."

@@ -2,7 +2,7 @@
 title = "Seed Data for Your WIP SQL Queries"
 categories = ['Code', 'SQL']
 date = "2019-02-05T20:41:59-05:00"
-aliases = ["/post/seed-data-for-your-wip-sql-queries/"]
+aliases = ["/post/seed-data-for-your-wip-sql-queries/", "/2019/02/05/seed-data-for-your-wip-sql-queries/"]
 +++
 
 In my last post, I wrote about [steps you can take to make writing complicated queries more manageable](/2019/01/02/stop-writing-sql-backwards/). One aspect that I didn't cover in that post is how to set sample data to work with during the writing process. Assuming you're not working directly in your production database as you test out new queries (right? right?? right???), you need some way to work on your new ideas.

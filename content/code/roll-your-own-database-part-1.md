@@ -2,7 +2,7 @@
 categories = ['Code', 'SQL']
 date = "2019-02-16T11:31:03-05:00"
 title = "Roll Your Own Database: Part 1"
-aliases = ["/post/roll-your-own-database-part-1/"]
+aliases = ["/post/roll-your-own-database-part-1/", "/2019/02/16/roll-your-own-database-part-1/"]
 +++
 
 **Warning: This post is NSFW. In this series, we are going to build a really, really simple database management system that you should by no means use in a production work environment.**

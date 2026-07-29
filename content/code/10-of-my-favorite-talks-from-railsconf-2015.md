@@ -6,6 +6,7 @@ categories:
 - RailsConf
 aliases: 
 -  "/blog/2015/04/29/10-of-my-favorite-talks-from-railsconf-2015/"
+-  "/2015/04/29/10-of-my-favorite-talks-from-railsconf-2015/"
 ---
 
 RailsConf 2015 was a blast. There were talks on a such a wide range of topics, that I wanted to capture some of my favorites here.

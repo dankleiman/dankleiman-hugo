@@ -9,7 +9,7 @@ featuredalt = ""
 featuredpath = ""
 author = ""
 draft = true
-aliases = ["/post/generating-a-40000-page-site-with-bigquery-hugo-and-github-pages/"]
+aliases = ["/post/generating-a-40000-page-site-with-bigquery-hugo-and-github-pages/", "/2017/11/18/generating-a-40000-page-site-with-bigquery-hugo-and-github-pages/"]
 +++
 
 Recently, I've been poking at Reddit datasets on [BigQuery](/categories/bigquery) and consolidating the [code](/categories/code) and [Tai Chi](/categories/tai-chi) sections of this site onto a single Hugo site, hosted on Github Pages.

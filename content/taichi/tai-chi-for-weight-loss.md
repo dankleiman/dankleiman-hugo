@@ -9,6 +9,7 @@ tags:
 title: Tai Chi for Weight Loss?
 aliases:
 - /2011/08/08/tai-chi-for-weight-loss/
+- "/tai-chi-for-weight-loss/"
 ---
 
 

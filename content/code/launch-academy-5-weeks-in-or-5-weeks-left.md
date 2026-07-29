@@ -7,6 +7,7 @@ categories:
 - Launch Academy
 aliases: 
 -  "/blog/2014/06/15/launch-academy-5-weeks-in-or-5-weeks-left/"
+-  "/2014/06/15/launch-academy-5-weeks-in-or-5-weeks-left/"
 ---
 This past week marks the end of Week 5 at Launch Academy.
 

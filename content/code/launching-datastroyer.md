@@ -7,6 +7,7 @@ categories:
 - Launch Academy
 aliases: 
 -  "/blog/2014/07/02/launching-datastroyer/"
+-  "/2014/07/02/launching-datastroyer/"
 ---
 
 I'm very excited to announce that [Craig McGinley](https://github.com/craigmcginley) and I have launched [Datastroyer](http://datastroyer.herokuapp.com/).

@@ -4,7 +4,7 @@ title = "Stop Writing SQL Backwards"
 categories = ['Code', 'SQL']
 linktitle = ""
 description = ""
-aliases = ["/post/stop-writing-sql-backwards/"]
+aliases = ["/post/stop-writing-sql-backwards/", "/2019/01/02/stop-writing-sql-backwards/"]
 +++
 
 How many times have you started off building a complicated analytical SQL query like this?
