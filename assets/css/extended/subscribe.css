@@ -1,0 +1,70 @@
+/* ============================================================
+   SUBSCRIBE FOOTER (Buttondown)
+   Themed via the section CSS variables set in sections.css
+   ============================================================ */
+
+.subscribe-footer {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--entry);
+}
+
+.subscribe-footer__title {
+    margin: 0 0 0.4rem;
+    font-size: 1.2rem;
+    color: var(--primary);
+}
+
+.subscribe-footer__desc {
+    margin: 0 0 1rem;
+    font-size: 0.95rem;
+    color: var(--secondary);
+}
+
+.subscribe-footer__form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+}
+
+.subscribe-footer__label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+}
+
+.subscribe-footer__input {
+    flex: 1 1 220px;
+    padding: 0.55rem 0.8rem;
+    font-size: 0.95rem;
+    color: var(--content);
+    background: var(--theme);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+}
+
+.subscribe-footer__input:focus {
+    outline: 2px solid var(--secondary);
+    outline-offset: 1px;
+}
+
+.subscribe-footer__submit {
+    flex: 0 0 auto;
+    padding: 0.55rem 1.1rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--theme);
+    background: var(--primary);
+    border: 1px solid var(--primary);
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.subscribe-footer__submit:hover {
+    opacity: 0.85;
+}

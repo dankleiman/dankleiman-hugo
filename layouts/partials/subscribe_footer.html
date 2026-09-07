@@ -1,0 +1,19 @@
+{{- $username := site.Params.buttondown.username }}
+{{- if and $username (ne $username "REPLACE_WITH_BUTTONDOWN_USERNAME") }}
+<section class="subscribe-footer">
+  <h2 class="subscribe-footer__title">Subscribe</h2>
+  <p class="subscribe-footer__desc">Get new posts by email, no more than a couple times a month.</p>
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/{{ $username }}"
+    method="post"
+    target="popupwindow"
+    onsubmit="window.open('https://buttondown.com/{{ $username }}', 'popupwindow')"
+    class="subscribe-footer__form embeddable-buttondown-form"
+  >
+    <label for="bd-email" class="subscribe-footer__label">Enter your email</label>
+    <input type="email" name="email" id="bd-email" placeholder="you@example.com" required class="subscribe-footer__input" />
+    <input type="hidden" value="1" name="embed" />
+    <input type="submit" value="Subscribe" class="subscribe-footer__submit" />
+  </form>
+</section>
+{{- end }}

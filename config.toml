@@ -24,6 +24,10 @@ googleAnalytics = "UA-19970008-2"
   Title = "Dan Kleiman"
   Content = "Writing about tai chi and code."
 
+[params.buttondown]
+  # Used to build https://buttondown.com/api/emails/embed-subscribe/<username>
+  username = "dankleiman"
+
 [permalinks]
   taichi = "/taichi/:contentbasename"
   code = "/code/:contentbasename"
